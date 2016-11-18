@@ -2,3 +2,7 @@ a:hover {
 	color: orange;
 	background-color: black;
 }
+
+a:active {
+	padding: 0 5px;
+}
